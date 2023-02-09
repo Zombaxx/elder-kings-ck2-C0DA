@@ -33,7 +33,7 @@
 3004.1.1 = { holder = 37728 }
 3065.1.1 = { holder = 37729 }
 3130.1.1 = { holder = 37730 } #Rilis XII
-3370.1.1 = { liege = d_skywatch }
+3350.1.1 = { liege = d_skywatch }
 3392.1.1 = { holder = 37731 } #Rilis XIII
 3425.1.1 = { liege = d_firsthold }
 3569.1.1 = { holder = 37733 }

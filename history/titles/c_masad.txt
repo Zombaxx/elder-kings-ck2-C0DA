@@ -1,6 +1,6 @@
 #Interregnum
 
-3370.1.1 = { holder = 21300 }
+3350.1.1 = { holder = 21300 }
 3403.1.1 = { 
 	holder = 21301 
 	liege = d_vulkneu

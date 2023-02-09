@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_anvil_republic }
-3370.1.1 = { holder = 300109 }
+3350.1.1 = { liege = d_anvil_republic }
+3350.1.1 = { holder = 300109 }
 3380.1.1 = {
 	holder = 26890
 	liege = d_hegathe

@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_korvanjund }
-3370.1.1 = { holder = 9101 }
+3350.1.1 = { liege = d_korvanjund }
+3350.1.1 = { holder = 9101 }
 3405.1.1 = { holder = 9107 }
 3436.1.1 = { holder = 9113 }
 3470.1.1 = { holder = 10550 }

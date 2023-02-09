@@ -1,7 +1,7 @@
 3310.1.1 = { holder = 3101 }
 3318.1.1 = { holder = 3104 }
 3360.1.1 = { holder = 3111 }
-3370.1.1 = { liege = d_sundercliff }
+3350.1.1 = { liege = d_sundercliff }
 3378.1.1 = { holder = 3112 }
 3384.1.1 = { 
 	holder = 3011 

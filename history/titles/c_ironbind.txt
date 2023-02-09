@@ -1,5 +1,5 @@
-3370.1.1 = { liege = k_eastmarch }
-3370.1.1 = { holder = 9008 }
+3350.1.1 = { liege = k_eastmarch }
+3350.1.1 = { holder = 9008 }
 3384.1.1 = { liege = d_ansilvund }
 3410.1.1 = { holder = 9014 }
 3451.1.1 = { holder = 9015 }

@@ -1,5 +1,8 @@
 100.1.1 = { holder = 210106 } #Umaril
 243.7.4 = { holder = 0 }
+3244.5.30 = {
+	holder = 210014 #Savirien
+}
 3351.1.1 = {
 	law = succ_imperial_commune_elective
 	law = cognatic_succession

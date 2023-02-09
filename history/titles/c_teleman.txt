@@ -2,7 +2,7 @@
 	holder = 3201
 	liege = d_blackwood
 }
-3370.1.1 = { holder = 3200 }
+3350.1.1 = { holder = 3200 }
 3380.1.1 = { 
 	holder = 3050
 	liege = d_stormhold

@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 30020 } # added
-3370.1.1 = { liege = d_diss }
+3350.1.1 = { holder = 30020 } # added
+3350.1.1 = { liege = d_diss }
 3380.1.1 = { holder = 30037 }
 3380.1.1 = { liege = d_eldenroot }
 3410.1.1 = { liege = d_briarpatch }

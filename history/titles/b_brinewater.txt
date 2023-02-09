@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_solitude_league }
-3370.1.1 = { holder = 9525 }
+3350.1.1 = { liege = d_solitude_league }
+3350.1.1 = { holder = 9525 }
 3421.1.1 = { holder = 9526 }
 3468.1.1 = { holder = 9527 }
 3518.1.1 = { holder = 9528 }

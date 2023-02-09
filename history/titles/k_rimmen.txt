@@ -2,7 +2,7 @@
 3265.1.1 = { holder = 69904 }
 3301.1.1 = { holder = 69905 }
 3328.1.1 = { holder = 69906 }
-3370.1.1 = { holder = 69900 } # Ra'Tesh Kispoor
+3350.1.1 = { holder = 69900 } # Ra'Tesh Kispoor
 3430.1.1 = { holder = 69901 } # Ra'Karim Kispoor
 3480.1.1 = { holder = 69902 } # Ajira Kispoor
 3490.1.1 = { holder = 69554 } # Hemakar Raispoor

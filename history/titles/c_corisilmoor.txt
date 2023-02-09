@@ -1,8 +1,8 @@
-3370.1.1 = { 
+3350.1.1 = { 
 	holder = 30020
 	law = true_cognatic_succession
 }
-3370.1.1 = { liege = d_diss }
+3350.1.1 = { liege = d_diss }
 3450.1.1 = { holder = 30042 }
 #Changes start here. Conquered by k_falinesti, with fabricated claim. Granted to a member of Camoran side-branch 2 years later
 3467.1.1 = { liege = k_falinesti }

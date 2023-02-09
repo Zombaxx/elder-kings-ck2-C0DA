@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 30020 }
-3370.1.1 = { 
+3350.1.1 = { holder = 30020 }
+3350.1.1 = { 
 	liege = d_diss 
 	law = true_cognatic_succession
 	}

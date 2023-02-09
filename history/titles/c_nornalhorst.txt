@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_skingrad }
-3370.1.1 = { holder = 8200 }
+3350.1.1 = { liege = d_skingrad }
+3350.1.1 = { holder = 8200 }
 3395.1.1 = { holder = 8201 }
 3417.1.1 = { holder = 8202 }
 3460.1.1 = { holder = 8203 }

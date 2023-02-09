@@ -1,4 +1,4 @@
-3370.1.1 = { holder = 9251 }
+3350.1.1 = { holder = 9251 }
 3388.1.1 = { 
 	holder = 6225
 	liege = d_falkreath

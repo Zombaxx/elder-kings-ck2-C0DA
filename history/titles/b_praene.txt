@@ -1,4 +1,4 @@
-3370.1.1 = {
+3350.1.1 = {
 	holding_dynasty = 50166
 	holder = 23650
 	liege = d_sentinel_republic

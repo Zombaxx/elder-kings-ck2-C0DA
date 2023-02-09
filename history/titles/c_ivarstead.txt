@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_therift }
-3370.1.1 = { holder = 10700 }
+3350.1.1 = { liege = d_therift }
+3350.1.1 = { holder = 10700 }
 3398.1.1 = { holder = 10701 }
 3406.1.1 = { holder = 10702 }
 3453.1.1 = { holder = 10703 }

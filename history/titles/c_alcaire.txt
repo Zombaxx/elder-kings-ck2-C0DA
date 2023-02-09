@@ -2,7 +2,7 @@
 3273.1.1 = { holder = 15277 }
 3310.1.1 = { holder = 15278 }
 3346.1.1 = { holder = 15279 }
-3370.1.1 = { liege = d_alcaire }
+3350.1.1 = { liege = d_alcaire }
 3371.1.1 = { holder = 15280 }
 3406.1.1 = { holder = 15281 }
 3432.1.1 = { holder = 15283 }

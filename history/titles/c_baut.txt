@@ -1,6 +1,6 @@
 # Interregnum
-3370.1.1 = { holder = 27400 }
-3370.1.1 = { liege = d_akos }
+3350.1.1 = { holder = 27400 }
+3350.1.1 = { liege = d_akos }
 3374.1.1 = { holder = 27402 }
 
 # Reachmen

@@ -1,4 +1,4 @@
-3370.1.1 = { holder = 69550 } # Jobasha Raispoor
+3350.1.1 = { holder = 69550 } # Jobasha Raispoor
 3420.1.1 = { holder = 69551 } # Ra'jirr Raispoor
 3440.1.1 = { liege = k_riverhold }
 3460.1.1 = { holder = 69552 } # Ma'Dara Raispoor

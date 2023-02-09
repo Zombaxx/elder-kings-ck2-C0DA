@@ -1,1 +1,1 @@
-3370.1.1={	holding_dynasty = 320003	liege="d_anvil_republic"	holder = 300108}
+3350.1.1={	holding_dynasty = 320003	liege="d_anvil_republic"	holder = 300108}

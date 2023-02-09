@@ -1,5 +1,5 @@
 2714.1.1 = { liege = d_cormount }
-3370.1.1 = { 
+3350.1.1 = { 
 	holder = 30047 
 	law = true_cognatic_succession
 }

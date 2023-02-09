@@ -11,7 +11,7 @@
 2754.1.1 = { holder = 36011 } #High King Aldaril I
 2941.1.1 = { holder = 36000 } #High King Aldaril II
 # Interregnum
-3370.1.1 = { holder = 36004 } #Prince Calcemo II
+3350.1.1 = { holder = 36004 } #Prince Calcemo II
 #3461.1.1 = { liege = 0 }
 #3465.1.1 = { liege = k_summerset }
 3494.1.1 = { holder = 36006 } #Prince Sirilonwe

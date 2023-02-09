@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 63100 }
-3370.1.1 = { liege = d_archein }
+3350.1.1 = { holder = 63100 }
+3350.1.1 = { liege = d_archein }
 3420.1.1 = { holder = 63101 }
 3442.1.1 = { holder = 63102 }
 3498.1.1 = { holder = 63105 }

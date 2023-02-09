@@ -1,4 +1,4 @@
-3370.1.1 = { holder = 69450 } # Tsramla Harabus
+3350.1.1 = { holder = 69450 } # Tsramla Harabus
 3410.1.1 = { holder = 69401 } # Tsani Khamim
 3440.1.1 = { holder = 69551 } # Ra'jirr Raispoor
 3440.1.1 = { liege = d_riverhold }

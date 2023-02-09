@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_stormhold }
-3370.1.1 = { holder = 3050 }
+3350.1.1 = { liege = d_stormhold }
+3350.1.1 = { holder = 3050 }
 3408.1.1 = { holder = 3051 }
 3454.1.1 = { holder = 3052 }
 3483.1.1 = { liege = d_sundercliff }

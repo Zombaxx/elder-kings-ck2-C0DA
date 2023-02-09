@@ -1,5 +1,5 @@
-3370.1.1 = { liege = k_kvatch }
-3370.1.1 = { holder = 8300 }
+3350.1.1 = { liege = k_kvatch }
+3350.1.1 = { holder = 8300 }
 3382.1.1 = { liege = k_colovia }
 3385.1.1 = { holder = 8301 }
 3418.1.1 = { holder = 8302 }

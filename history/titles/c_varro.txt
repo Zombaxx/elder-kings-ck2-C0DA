@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 39150 } # Larrin Cassanres
-3370.1.1 = { liege = k_pyrrahn }
+3350.1.1 = { holder = 39150 } # Larrin Cassanres
+3350.1.1 = { liege = k_pyrrahn }
 3470.1.1 = { liege = d_arcantys }
 3524.1.1 = { holder = 39101 }
 3785.1.1 = { holder = 39103 }

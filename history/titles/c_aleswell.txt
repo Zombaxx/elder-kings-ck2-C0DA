@@ -1,5 +1,5 @@
-3370.1.1 = { liege = k_heartlands }
-3370.1.1 = { holder = 175 }
+3350.1.1 = { liege = k_heartlands }
+3350.1.1 = { holder = 175 }
 3404.1.1 = { holder = 177 }
 3455.1.1 = { 
 	liege = k_thereach 

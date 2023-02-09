@@ -1,8 +1,8 @@
 3300.1.1 = { 
 	law = true_cognatic_succession
 }
-3370.1.1 = { holder = 36850 } #Estormo
-3370.1.1 = { liege = d_shimmerene }
+3350.1.1 = { holder = 36850 } #Estormo
+3350.1.1 = { liege = d_shimmerene }
 3540.1.1 = { holder = 36853 }
 3624.1.1 = { holder = 36854 }
 3762.1.1 = { holder = 36855 }

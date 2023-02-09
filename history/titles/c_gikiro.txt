@@ -1,6 +1,6 @@
 # Interregnum
-3370.1.1 = { holder = 135650 } #Takumi Kuro
-3370.1.1 = { liege = d_asohi }
+3350.1.1 = { holder = 135650 } #Takumi Kuro
+3350.1.1 = { liege = d_asohi }
 
 # Interim
 3399.1.1 = { holder = 135651 } #Rikyo Kuro

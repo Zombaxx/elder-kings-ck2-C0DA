@@ -1,6 +1,6 @@
 60.1.1 = { holder = 210097 }
 3369.1.1 = { holder = 11250 }
-3370.1.1 = { liege = d_coldrock }
+3350.1.1 = { liege = d_coldrock }
 3394.1.1 = { holder = 11251 }
 3402.1.1 = { holder = 11252 }
 3448.1.1 = { holder = 11253 }

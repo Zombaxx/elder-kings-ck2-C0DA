@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_niben_mercantile }
-3370.1.1 = { holder = 3300 }
+3350.1.1 = { liege = d_niben_mercantile }
+3350.1.1 = { holder = 3300 }
 3387.1.1 = { holder = 3301 }
 3397.1.1 = { holder = 3303 }
 3452.1.1 = { holder = 3304 }

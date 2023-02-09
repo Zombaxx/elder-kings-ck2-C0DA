@@ -1,5 +1,5 @@
-3370.1.1 = { liege = k_winterhold }
-3370.1.1 = { holder = 10175 }
+3350.1.1 = { liege = k_winterhold }
+3350.1.1 = { holder = 10175 }
 3410.1.1 = { holder = 10176 }
 3457.1.1 = { liege = k_eastmarch }
 3467.1.1 = { holder = 10177 }

@@ -1,5 +1,5 @@
-3370.1.1 = { liege = k_heartlands }
-3370.1.1 = { holder = 125 }
+3350.1.1 = { liege = k_heartlands }
+3350.1.1 = { holder = 125 }
 3400.1.1 = { holder = 126 }
 3407.1.1 = { holder = 128 }
 3440.1.1 = { holder = 129 }

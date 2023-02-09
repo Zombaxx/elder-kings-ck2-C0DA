@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 39450 }
-3370.1.1 = { liege = d_akuna }
+3350.1.1 = { holder = 39450 }
+3350.1.1 = { liege = d_akuna }
 3415.1.1 = { liege = k_pyrrahn }
 3492.1.1 = { liege = k_pyandonea }
 3621.1.1 = { holder = 39451 }

@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 69200 } # Sholani Mahma
-3370.1.1 = { liege = d_dune }
+3350.1.1 = { holder = 69200 } # Sholani Mahma
+3350.1.1 = { liege = d_dune }
 3421.1.1 = { holder = 69201 } # Jodhur Mahma
 3430.1.1 = { liege = 0 }
 3449.1.1 = { holder = 69203 } # Ranarr-Jo Mahma

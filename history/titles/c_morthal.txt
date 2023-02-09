@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_hjaalmarch }
-3370.1.1 = { holder = 9375 }
+3350.1.1 = { liege = d_hjaalmarch }
+3350.1.1 = { holder = 9375 }
 3400.1.1 = { holder = 9378 }
 3433.1.1 = { holder = 9379 }
 3462.1.1 = { holder = 9380 }

@@ -1,4 +1,4 @@
-3370.1.1={
+3350.1.1={
 	holding_dynasty = 90412
 	liege="d_wayrest"
 	holder = 15116

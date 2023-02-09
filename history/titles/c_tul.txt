@@ -1,5 +1,5 @@
 # Interregnum
-3370.1.1 = { holder = 27050 }
+3350.1.1 = { holder = 27050 }
 3400.1.1 = { holder = 27051 }
 
 # Reachmen

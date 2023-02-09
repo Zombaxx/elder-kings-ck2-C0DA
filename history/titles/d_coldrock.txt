@@ -1,4 +1,4 @@
-3370.1.1 = { holder = 10153 }
+3350.1.1 = { holder = 10153 }
 3404.1.1 = { 
 	holder = 10160
 	liege = k_solitude

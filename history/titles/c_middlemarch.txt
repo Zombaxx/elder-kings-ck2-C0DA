@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_northpoint }
-3370.1.1 = { holder = 15850 }
+3350.1.1 = { liege = d_northpoint }
+3350.1.1 = { holder = 15850 }
 3388.1.1 = { holder = 15851 }
 3412.1.1 = { holder = 15852 }
 3449.1.1 = { holder = 15853 }

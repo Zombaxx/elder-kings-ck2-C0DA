@@ -1,8 +1,8 @@
 3227.1.1 = { holder = 18050 }
 3254.1.1 = { holder = 18027 }
 3330.1.1 = { holder = 18030 }
-3370.1.1 = { liege = d_scarhammer }
-3370.1.1 = { holder = 18031 }
+3350.1.1 = { liege = d_scarhammer }
+3350.1.1 = { holder = 18031 }
 3377.1.1 = { holder = 18032 }
 3405.1.1 = { holder = 18039 }
 3451.1.1 = { holder = 18040 }

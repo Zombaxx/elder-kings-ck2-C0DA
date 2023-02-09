@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 66150 }
-3370.1.1 = { liege = d_senchal }
+3350.1.1 = { holder = 66150 }
+3350.1.1 = { liege = d_senchal }
 3407.1.1 = { holder = 66151 }
 3439.1.1 = { holder = 66152 }
 3498.1.1 = { holder = 66653 } #Election following humiliating subjugation against Elsweyr - Zadavi family loses out on Senchal

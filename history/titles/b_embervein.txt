@@ -1,4 +1,4 @@
-3370.1.1={
+3350.1.1={
 	holding_dynasty = 70168
 	liege="d_solitude_league"
 	holder = 9475

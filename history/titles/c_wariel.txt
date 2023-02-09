@@ -1,5 +1,5 @@
 3350.1.1 = { holder = 6550 }
-3370.1.1 = { liege = k_anvil }
+3350.1.1 = { liege = k_anvil }
 3377.1.1 = { holder = 6552 }
 3403.1.1 = { holder = 6553 }
 3440.1.1 = { liege = d_crowhaven }

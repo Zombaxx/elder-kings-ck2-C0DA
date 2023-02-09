@@ -1,5 +1,5 @@
-3370.1.1 = { liege = d_ansilvund }
-3370.1.1 = { holder = 9007 }
+3350.1.1 = { liege = d_ansilvund }
+3350.1.1 = { holder = 9007 }
 3375.1.1 = {
 	holder = 10600
 	liege = k_therift

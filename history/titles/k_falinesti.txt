@@ -2,7 +2,7 @@
 	holder = 30003
 	law = true_cognatic_succession
 	}
-3370.1.1 = { 
+3350.1.1 = { 
 	law = succ_seniority 
 	}
 3433.1.1 = { holder = 30004 }

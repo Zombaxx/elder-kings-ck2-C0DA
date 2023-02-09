@@ -1,5 +1,5 @@
 3369.1.1 = { liege = d_whiterun }
-3370.1.1 = { holder = 11050 }
+3350.1.1 = { holder = 11050 }
 3423.1.1 = { holder = 11051 }
 3455.1.1 = { liege = k_thereach }
 3471.1.1 = { holder = 11052 }

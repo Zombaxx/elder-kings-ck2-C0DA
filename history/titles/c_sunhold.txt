@@ -1,5 +1,5 @@
-3370.1.1 = { holder = 36150 }
-3370.1.1 = { liege = d_sunhold }
+3350.1.1 = { holder = 36150 }
+3350.1.1 = { liege = d_sunhold }
 #The Black Drake
 3420.1.1 = { holder = 36152 } #Carandial
 #Winter Storm

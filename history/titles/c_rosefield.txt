@@ -1,8 +1,8 @@
-3370.1.1 = { 
+3350.1.1 = { 
 	holder = 37350
 	law = true_cognatic_succession
 }
-3370.1.1 = { liege = d_sunhold }
+3350.1.1 = { liege = d_sunhold }
 3490.1.1 = {
 	holder = 36500
 	liege = d_rosefield

@@ -1,6 +1,6 @@
 # Interregnum
-3370.1.1 = { liege = d_jamirya }
-3370.1.1 = { holder = 135500 } #Taisho Hanaboru
+3350.1.1 = { liege = d_jamirya }
+3350.1.1 = { holder = 135500 } #Taisho Hanaboru
 
 
 # Reachmen

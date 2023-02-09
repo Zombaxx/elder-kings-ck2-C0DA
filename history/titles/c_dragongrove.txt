@@ -1,4 +1,4 @@
-3370.1.1 = {
+3350.1.1 = {
 	holder = 24004
 	liege = d_hegathe
 }
