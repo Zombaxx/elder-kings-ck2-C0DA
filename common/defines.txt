@@ -1,4 +1,4 @@
-start_date = 3370.1.1
+start_date = 1.1.1
 last_start_date = 4451.8.14
 end_date = 5000.1.1
 
