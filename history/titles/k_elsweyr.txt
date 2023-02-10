@@ -1,9 +1,11 @@
+2703.1.4 = { liege = e_cyrodiil } #Reman
 3230.1.1 = { 
 	holder = 69000 
 	government = mane_government 
 }
 3240.1.1 = { holder = 66000 }
 3310.1.1 = { holder = 66001 }
+3350.2.22 = { liege = 0 }#Interregnum
 3400.1.1 = { holder = 66002 }
 3462.11.29 = { holder = 66003 }
 3500.8.1 = { liege = e_aldmeri }

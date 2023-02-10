@@ -1,8 +1,10 @@
+2703.1.4 = { liege = e_cyrodiil } #Reman
 3000.1.1 = {
 	law = succ_feudal_elective
 	law = cognatic_succession
 }
 3350.1.1 = { holder = 3150 }
+3350.2.22 = { liege = 0 }#Interregnum
 3451.1.1 = { holder = 3600 }
 3452.1.1 = { set_tribute_suzerain = { who = e_cyrodiil type = default } }
 3495.1.1 = { 

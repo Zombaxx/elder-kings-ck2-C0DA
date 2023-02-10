@@ -17,6 +17,7 @@
 2172.1.1 = { holder = 15106 }
 2203.1.1 = { holder = 15107 } #Cumberland End
 2244.1.1 = { holder = 17999 } # Placeholder Period #2
+2703.1.4 = { liege = e_cyrodiil } #Reman
 3000.1.1 = { holder = 15175 } #Horley Start
 3017.1.1 = { holder = 15176 }
 3067.1.1 = { holder = 15177 }
@@ -28,6 +29,7 @@
 3272.1.1 = { holder = 15013 } #Gardner Start
 3310.1.1 = { holder = 15014 }
 3324.1.1 = { holder = 15016 } #Gardner End
+3350.2.22 = { liege = 0 }#Interregnum
 3353.1.1 = { holder = 15201 } #Woodborne Start/End
 3378.1.1 = { holder = 15017 } #Gardner Start
 3383.1.1 = { holder = 15018 }

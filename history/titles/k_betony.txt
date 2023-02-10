@@ -1,3 +1,5 @@
+2703.1.4 = { liege = e_cyrodiil } #Reman
 3270.1.1 = { holder = 15673 }
 3310.1.1 = { holder = 15677 }
 3320.1.1 = { holder = 0 }
+3350.2.22 = { liege = 0 }#Interregnum

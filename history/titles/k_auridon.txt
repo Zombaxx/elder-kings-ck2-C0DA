@@ -8,7 +8,9 @@
 2289.1.1 = { holder = 36360 } #Miramor
 2537.1.1 = { holder = 36359 } #Peregrine-necromancer queen
 2680.1.1 = { holder = 36358 } #Norionil-last king of historical Auridon
+2703.1.4 = { liege = e_cyrodiil } #Reman
 2894.1.1 = { holder = 0 }
+3350.2.22 = { liege = 0 }#Interregnum
 3430.1.1 = { holder = 36350 } #Merandil-tried to recreate a short lived Kingdom of Auridon
 3466.1.1 = { holder = 36352 } #Tusamircil
 3467.1.1 = { holder = 0 }

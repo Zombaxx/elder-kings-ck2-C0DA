@@ -1,3 +1,4 @@
+2703.1.4 = { liege = e_cyrodiil } #Reman
 3319.1.1 = { 
 	holder = 30003
 	law = true_cognatic_succession
@@ -5,6 +6,7 @@
 3350.1.1 = { 
 	law = succ_seniority 
 	}
+3350.2.22 = { liege = 0 }#Interregnum
 3433.1.1 = { holder = 30004 }
 3476.1.1 = { holder = 30005 }
 3487.1.1 = { holder = 30066 }

@@ -50,10 +50,13 @@
 
 2640.1.1 = { holder = 210130 } #Alldimar
 
+2703.1.4 = { liege = e_cyrodiil } #Reman
+
 #Interregnum
 
 3330.1.1 = { holder = 9110 } #Logrolf I
 3331.1.1 = { law = succ_nord_moot_elective }
+3350.2.22 = { liege = 0 }#Interregnum
 3351.1.1 = { holder = 9100 } #Freydis I
 3352.1.1 = { holder = 0 }
 3485.1.1 = { holder = 9112 } #Mabjaarn I

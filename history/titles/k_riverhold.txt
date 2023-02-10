@@ -1,3 +1,5 @@
+2703.1.4 = { liege = e_cyrodiil } #Reman
+3350.2.22 = { liege = 0 }#Interregnum
 3440.1.1 = { holder = 69551 } # Ra'jirr Raispoor
 3460.1.1 = { holder = 69552 } # Ma'Dara Raispoor
 3496.1.1 = { 

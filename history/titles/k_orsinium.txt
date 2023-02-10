@@ -1,6 +1,8 @@
 200.1.1 = { holder = 42010 }
 950.1.1 = { holder = 42011 }
 980.1.1 = { holder = 0 } #Fall of Orsinium
+2703.1.4 = { liege = e_cyrodiil } #Reman
+3350.2.22 = { liege = 0 }#Interregnum
 3487.12.30 = {
 	set_tribute_suzerain = { who = k_wayrest type = default }
 }

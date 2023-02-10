@@ -4,4 +4,5 @@
 	holder = 30046
 	law = true_cognatic_succession
 }
+3350.2.22 = { liege = 0 }#Interregnum
 3472.1.1 = {  holder = 0 }

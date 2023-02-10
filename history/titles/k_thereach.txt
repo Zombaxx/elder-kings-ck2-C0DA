@@ -1,6 +1,10 @@
 1031.1.1 = { holder = 18000 }
 1034.1.1 = { holder = 0 }
 
+2703.1.4 = { liege = e_cyrodiil } #Reman
+
+3350.2.22 = { liege = 0 }#Interregnum
+
 3451.1.1 = { holder = 18040 } #Durcorach the Black Drake
 3455.1.1 = { liege = e_cyrodiil }
 3462.1.1 = { holder = 18041 }

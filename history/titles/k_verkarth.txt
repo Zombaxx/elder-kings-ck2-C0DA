@@ -1,2 +1,4 @@
 1026.1.1 = { holder = 301027 }
 1029.1.1 = { holder = 0 }
+2703.1.4 = { liege = e_cyrodiil } #Reman
+3350.2.22 = { liege = 0 }#Interregnum

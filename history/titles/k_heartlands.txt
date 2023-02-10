@@ -1,8 +1,10 @@
 100.1.1 = { holder = 210106 } #Umaril
 243.7.4 = { holder = 0 }
+2703.1.4 = { liege = e_cyrodiil } #Reman
 3244.5.30 = {
 	holder = 210014 #Savirien
 }
+3350.2.22 = { liege = 0 }#Interregnum
 3351.1.1 = {
 	law = succ_imperial_commune_elective
 	law = cognatic_succession

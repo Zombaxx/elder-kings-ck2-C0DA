@@ -4,3 +4,5 @@
 853.1.1 = {
 	holder = 0 #Death of Xakhwan
 }
+2703.1.4 = { liege = e_cyrodiil } #Reman
+3350.2.22 = { liege = 0 }#Interregnum

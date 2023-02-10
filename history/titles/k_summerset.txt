@@ -13,11 +13,13 @@
 2201.1.1 = { holder = 36014 } #Calcemo, gave the duchy of Lillandril to his daughter, creating a cadet branch
 2432.1.1 = { holder = 36015 } #Caryarel
 2470.1.1 = { holder = 36016 } #Palonirya, first High-Queen of Alinor
+2703.1.4 = { liege = e_cyrodiil } #Reman
 2812.1.1 = { holder = 36017 } #Carecalmo, executed Prince Ormil for his uncouth behavior, Ormil's son Aldaril successfully revolted and executed Carecalemo
 2908.1.1 = { holder = 36011 } #Aldaril I, avenged his father, first king of the Lillandril cadet branch
 2941.1.1 = { holder = 36000 } #Aldaril II
 #Interregnum
 3193.1.1 = { holder = 36001 } #Hidellith
+3350.2.22 = { liege = 0 }#Interregnum
 3500.1.1 = { holder = 36007 } #Ayrenn
 3500.5.1 = { liege = e_aldmeri }
 3774.1.1 = { holder = 36033 }
