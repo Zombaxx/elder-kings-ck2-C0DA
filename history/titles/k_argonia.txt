@@ -1,0 +1,3 @@
+2703.1.4 = { liege = e_cyrodiil } #Reman
+3349.12.31 = { holder = 210014 }
+3350.2.22 = { liege = 0 }#Interregnum

@@ -7,6 +7,7 @@
 2937.1.1 = { holder = 30007 }
 3280.1.1 = { holder = 30002 }
 3319.1.1 = { holder = 0 }
+3349.12.31 = { holder = 210014 }
 3350.2.22 = { liege = 0 }#Interregnum
 3498.3.1 = { holder = 30066 }
 3500.7.1 = { liege = e_aldmeri }
